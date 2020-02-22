@@ -47,13 +47,7 @@ public class MainFragment extends Fragment implements NetworkAsyncTask.Listeners
         this.executeHttpRequestWithRetrofit();
     }
 
-    /**
-    // 4 - Execute HTTP request and update UI
-    private void executeHttpRequestWithRetrofit(){
-        this.updateUIWhenStartingHTTPRequest();
-        GithubCalls.fetchUserFollowing(this, "JakeWharton");
-    }
-     */
+
     //---------------------------------------------------------------------------//
 
     // ------------------------------
