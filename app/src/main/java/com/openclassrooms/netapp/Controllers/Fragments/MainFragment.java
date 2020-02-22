@@ -47,7 +47,7 @@ public class MainFragment extends Fragment implements NetworkAsyncTask.Listeners
     // ------------------
 
     private void executeHttpRequest(){
-        new NetworkAsyncTask(this).execute("https://api.github.com/users/JakeWharton/following");
+        new NetworkAsyncTask(this).execute("https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png?v8");
     }
 
     @Override
