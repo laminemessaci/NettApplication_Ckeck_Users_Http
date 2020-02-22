@@ -11,6 +11,10 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
+
+/**
+ * this Class replace  2 oled Classes "MyHttpURLConnection an NetworkAsyynTask"
+ */
 public class GithubCalls {
 
     // 1 - Creating a callback
